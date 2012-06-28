@@ -9,8 +9,8 @@ by default but you can tag it additionally to perform specific sorting.
 
 The following tagging classes are currently supported:
 
-   `'sortable-string'` (*default* - can be omited)
-   `'sortable-number'`
+  * `'sortable-string'` (*default* - can be omited)
+  * `'sortable-number'`
 
 Usage Example:
 
